@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Sociology, University of Wisconsin-Madison, 2024 (expected)
+* M.S. in Sociology, University of Wisconsin-Madison, 2020
+* B.A. in Political Science, Meiji University, 2014
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Published Articles
+===
+*Graduate student coauthor; †Undergraduate student coauthor
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Furuya, Shiro**, and Jia Wang*. 2023. “The Long Shadow: Early-Life Adversity and Later-Life Loneliness in the United States.” The Journals of Gerontology: Series B 78(2):370–82. doi: [10.1093/geronb/gbac164](https://doi.org/10.1093/geronb/gbac164).
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Furuya, Shiro**, and Jason M. Fletcher. 2022. “Early Life Environments and Cognition in Adulthood: New Evidence Using a Semiparametric Approach and Quantile Regression .” Social Science and Medicine-Population Health 19:101251. doi: [10.1016/j.ssmph.2022.101251](https://doi.org/10.1016/j.ssmph.2022.101251).
+
+Wu, Yuchang, **Shiro Furuya**, Zihang Wang, Jenna E. Nobles, Jason M. Fletcher, and Qiongshi Lu. 2022. “GWAS on Birth Year Infant Mortality Rates Provides Evidence of Recent Natural Selection.” Proceedings of the National Academy of Sciences of the United States of America 119(12). doi: [10.1073/pnas.2117312119](https://doi.org/10.1073/pnas.2117312119).
+
+**Furuya, Shiro**, Jason M. Fletcher, Zijie Zhao*, Zhongxuan Sun†, and Qiongshi Lu. 2022. “Detecting Genetic Heterogeneities in Response to Trauma: The Case of 9/11.” Social Science and Medicine-Mental Health 2:100044. doi: [10.1016/j.ssmmh.2021.100044](https://doi.org/10.1016/j.ssmmh.2021.100044).
+
+**Furuya, Shiro**, and James M. Raymo. 2021. “Living Arrangements, Intergenerational Support, and Married Women’s Subjective Well-Being.” Asian Population Studies 18(1):87–107. doi: [10.1080/17441730.2021.1975396](https://doi.org/10.1080/17441730.2021.1975396).
+
+Papers Under Review
+---
