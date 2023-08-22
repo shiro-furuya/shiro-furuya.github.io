@@ -1,3 +1,13 @@
+ ---
+ permalink: /
+-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
++title: "About me"
+ excerpt: "About me"
+ author_profile: true
+ redirect_from: 
+   - /about/
+   - /about.html
+ ---
 Welcome to Shiro Furuya's home on the web! I am a Ph.D. candidate in Sociology at [the University of Wisconsin-Madison](https://sociology.wisc.edu/). I am also affiliated with [the Center for Demography and Ecology](https://cde.wisc.edu/) and [the Center for Demography of Health and Aging](https://cdha.wisc.edu/). I will be on the job market in 2023-2024 application cycle.
 
 My research attempts to uncover the processes that generate inequalities in health and well-being.
