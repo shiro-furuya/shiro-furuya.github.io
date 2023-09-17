@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae
----
 The updated vitae in the pdf format is available from [here](https://www.dropbox.com/s/l6i8xk1psvo75ev/vitae.pdf?dl=0).
