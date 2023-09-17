@@ -1,11 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "Working Papers"
-excerpt: "About me"
+permalink: /workingpapers/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /WorkingPapers
 ---
 
 I am Shiro Furuya, a Ph.D. candidate in sociology at [the University of Wisconsin-Madison](https://sociology.wisc.edu/) with affiliations in [the Center for Demography and Ecology](https://cde.wisc.edu/) and [the Center for Demography of Health and Aging](https://cdha.wisc.edu/). I am **on the job market** in 2023-2024 academic year.
