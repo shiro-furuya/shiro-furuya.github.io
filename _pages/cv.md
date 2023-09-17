@@ -19,6 +19,10 @@ Published Articles
 ---
 *Graduate student coauthor; †Undergraduate student coauthor
 
+* **Furuya, Shiro**, Jihua Liu*, Zhongxuan Sun†, Qiongshi Lu, and Jason M. Fletcher. Forthcoming. “Understanding Internal Migration: A Research Note for an Assessment of Migration Selection with Genetic Data.” *Demography*
+
+* **Furuya, Shiro**, Jihua Liu*, Zhongxuan Sun†, Qiongshi Lu, and Jason M. Fletcher. Forthcoming. “The Big Genetic Sort? A Research Note on Migration Patterns and Their Genetic Imprint in the UK.” *Demography*
+
 * **Furuya, Shiro**, and Jia Wang*. 2023. “The Long Shadow: Early-Life Adversity and Later-Life Loneliness in the United States.” *The Journals of Gerontology: Series B* 78(2):370–82. doi: [10.1093/geronb/gbac164](https://doi.org/10.1093/geronb/gbac164).
 
 * **Furuya, Shiro**, and Jason M. Fletcher. 2022. “Early Life Environments and Cognition in Adulthood: New Evidence Using a Semiparametric Approach and Quantile Regression .” *Social Science and Medicine-Population Health* 19:101251. doi: [10.1016/j.ssmph.2022.101251](https://doi.org/10.1016/j.ssmph.2022.101251).
@@ -33,13 +37,9 @@ Papers Under Review
 ---
 * **Furuya, Shiro**, and James M. Raymo. “Loneliness at Older Ages in Japan: Variation in Lonely Life Expectancy and the Role of Social Isolation.” (2nd revise and resubmit, *Population Research and Policy Review*).
 
-* **Furuya, Shiro**, Jihua Liu*, Zhongxuan Sun†, Qiongshi Lu, and Jason M. Fletcher. “Understanding Internal Migration: A Research Note for an Assessment of Migration Selection with Genetic Data.” (Revise and resubmit, *Demography*).
-
 * **Furuya, Shiro**, and Jason M. Fletcher. “Retirement Makes You Old? Effect of Retirement on Biological Age.” (Revise and resubmit, *Demography*).
 
 * **Furuya, Shiro**, Fengyi Zheng, Qiongshi Lu, and Jason M. Fletcher “Separating Scarring Effect and Selection of Early Life Exposures with Genetic Data.” (Revise and resubmit, *Demography*).
-
-* **Furuya, Shiro**, Jihua Liu*, Zhongxuan Sun†, Qiongshi Lu, and Jason M. Fletcher “The Big Genetic Sort? A Research Note on Migration Patterns and Their Genetic Imprint in the UK.” (Revise and resubmit, *Demography*)
 
 Grants and Fellowships
 ----
