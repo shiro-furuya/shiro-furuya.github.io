@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Shiro's Site to the Web"
+title: "Working Papers"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
