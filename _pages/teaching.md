@@ -17,7 +17,7 @@ production.
 
 The second part of the course focuses on statistical inference. In this part of the course, we will discuss the logic and methods of making inferences about populations from sample data. In so doing, you will learn how to test hypotheses with a variety of statistical tests. Topics in this section include: the meaning of statistical significance, how to calculate confidence intervals, and how to conduct statistical tests for means, count data, and regressions. Throughout the course, you will analyze small bodies of data and interpret your findings.
 
-**Link to Course Syllabus**: [Link](https://www.dropbox.com/scl/fi/1mxdbi6ecvk8bdgeiojuy/SOC360_SUMMER-2022_Syllabus.pdf?rlkey=gkoa6jwo52n430gfzj2maw61e&dl=0)
+**Link to the course syllabus**: [Link](https://www.dropbox.com/scl/fi/1mxdbi6ecvk8bdgeiojuy/SOC360_SUMMER-2022_Syllabus.pdf?rlkey=gkoa6jwo52n430gfzj2maw61e&dl=0)
 
 ## Statistics for Sociologists II (UW-Madison)
 **Role**: Teaching Assistant
