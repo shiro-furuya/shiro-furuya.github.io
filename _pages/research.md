@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-## Published and Forthcoming Papers
-1. **Furuya, Shiro**, Fengyi Zheng, Qinogshi Lu, and Jason M. Fletcher. Accepted. "Separating Scarring Effect and Selection of Early Life Exposures with Genetic Data" *Demography*
+## Published Papers
+1. **Furuya, Shiro**, Fengyi Zheng, Qinogshi Lu, and Jason M. Fletcher. 2024. "Separating Scarring Effect and Selection of Early Life Exposures with Genetic Data" *Demography* 61(2): 363-392. doi: [10.1215/00703370-11239766](https://doi.org/10.1215/00703370-11239766).
 
 2. **Furuya, Shiro**, Jihua Liu, Zhongxuan Sun, Qiongshi Lu, and Jason M. Fletcher. 2023. “The Big (Genetic) Sort? A Research Note on Migration Patterns and Their Genetic Imprint in the UK.” *Demography* 60(6): 1649–1664. doi: [10.1215/00703370-11054960](https://doi.org/10.1215/00703370-11054960).
 
