@@ -14,7 +14,7 @@ My substantive research interests include social demography, health, aging, the 
 
 **Publications**
 
-In addition to three publications at *Demography* \(links to papers [#1](https://doi.org/10.1215/00703370-11053145); [#2](https://doi.org/10.1215/00703370-11054960); and [#3](https://doi.org/10.1215/00703370-11239766)), my research has been published in [*PNAS*](https://doi.org/10.1073/pnas.2117312119), [*The Journals of Gerontology, Series B*](https://doi.org/10.1093/geronb/gbac164), [*SSM-Population Health*](https://doi.org/10.1016/j.ssmph.2022.101251), [*SSM-Mental Health*](https://doi.org/10.1016/j.ssmmh.2021.100044), and [*Asian Population Studies*](https://doi.org/10.1080/17441730.2021.1975396).
+In addition to three publications at *Demography* \(links to published papers [#1](https://doi.org/10.1215/00703370-11053145); [#2](https://doi.org/10.1215/00703370-11054960); and [#3](https://doi.org/10.1215/00703370-11239766)), my research has been published in [*PNAS*](https://doi.org/10.1073/pnas.2117312119), [*The Journals of Gerontology, Series B*](https://doi.org/10.1093/geronb/gbac164), [*SSM-Population Health*](https://doi.org/10.1016/j.ssmph.2022.101251), [*SSM-Mental Health*](https://doi.org/10.1016/j.ssmmh.2021.100044), and [*Asian Population Studies*](https://doi.org/10.1080/17441730.2021.1975396). Additionally, another paper has been recently accepted at *Demography*.
 
 For the comprehensive list of publications, please find my cv [here](https://www.dropbox.com/s/l6i8xk1psvo75ev/vitae.pdf?dl=0).
 
