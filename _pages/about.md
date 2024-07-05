@@ -30,7 +30,7 @@ redirect_from:
 
 - **Furuya, Shiro**, and Jason M. Fletcher. 2024. "Retirement Makes You Old? Causal Effect of Retirement on Biological Age." *Demography* 61(3):901-931. doi:[10.1215/00703370-11380637](https://doi.org/10.1215/00703370-11380637).
 
-- **Furuya, Shiro**, Fengyi Zheng, Qiongshi Lu, and Jason M. Fletcher. 2024. "Separating Scarring Effect and Selection of Early Life Exposures with Genetic Data." *Demography* 61(2):363-392. doi:[10.125/00703370-11239766](https://doi.org/10.125/00703370-11239766).
+- **Furuya, Shiro**, Fengyi Zheng, Qiongshi Lu, and Jason M. Fletcher. 2024. "Separating Scarring Effect and Selection of Early Life Exposures with Genetic Data." *Demography* 61(2):363-392. doi:[10.1215/00703370-11239766](https://doi.org/10.1215/00703370-11239766).
 
 - **Furuya, Shiro**, Jihua Liu, Zhongxuan Sun, Qiongshi Lu, and Jason M. Fletcher. 2023. "The Big (Genetic) Sort? A Research Note on Migration Patterns and Their Genetic Imprint in the UK." *Demography* 60(6):1649-1664. doi:[10.1215/00703370-11054960](https://doi.org/10.1215/00703370-11054960).
 
