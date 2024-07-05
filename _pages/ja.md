@@ -5,23 +5,24 @@ permalink: /ja/
 author_profile: true
 ---
 
-社会学・人口学者
+## **略歴**
+1991年生まれ。[松沢幼稚園](https://edu.unchusha.com/)卒園後、[富士通株式会社](https://global.fujitsu/ja-jp)を経て、[フルブライト奨学生](https://www.fulbright.jp/index.html)として[ウィスコンシン大学マディソン校](https://sociology.wisc.edu/)で博士号を取得し、（あとちょっとで）現職。社会科学の枠にとどまらず、血液や唾液のサンプルから取得されたバイオマーカーを社会科学に取り込んだ研究にも取り組んでいます。研究にあたっては、生命表などの人口学的手法に加え、因果推論や生物統計学（例：ゲノムワイド関連解析や遺伝的相関）などを使用しています。研究業績は国際学術誌における発表を主としていますが、日本での学会発表もしております（例：２０２４年３月の数理社会学会）。
 
 
-## **現職**
+## **（もう少しで）現職**
 
 
-- デービッド・E・ベル フェロー（ポスドク）＠ [ハーバード大学](https://www.hsph.harvard.edu/population-development/)
+- David E. Bell Fellow（ポスドク研究員）＠ [ハーバード大学](https://www.hsph.harvard.edu/population-development/)（２０２４年９月１日～） 
 
-- アシスタント・プロフェッサー ＠ [パデュー大学](https://www.cla.purdue.edu/academic/sociology/index.html)
+- アシスタント・プロフェッサー ＠ [パデュー大学](https://www.cla.purdue.edu/academic/sociology/index.html)（２０２４年８月１２日～）
 
 ## **学位**
 
-- Ph.D.（社会学）, [ウィスコンシン大学マディソン校](https://sociology.wisc.edu/), 2024
+- 博士（社会学）, [ウィスコンシン大学マディソン校](https://sociology.wisc.edu/), ２０２４年８月
 
-- M.S.（社会学）, [ウィスコンシン大学マディソン校](https://sociology.wisc.edu/), 2020
+- 修士（社会学）, [ウィスコンシン大学マディソン校](https://sociology.wisc.edu/), ２０２０年８月
 
-- 学士（政治学）, [明治大学](https://www.meiji.ac.jp/), 2014
+- 学士（政治学）, [明治大学](https://www.meiji.ac.jp/), ２０１４年３月
 
 ## **主要な研究業績**
 
