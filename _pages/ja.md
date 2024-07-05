@@ -1,11 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "古家　士朗（ふるや　しろう）"
-excerpt: "About me"
+permalink: /ja/
 author_profile: true
-redirect_from: 
-  - /ja/
-  - /ja.html
+redirect_from:
+  - /ja
 ---
 
 社会学・人口学者
