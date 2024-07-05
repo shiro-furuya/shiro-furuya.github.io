@@ -3,8 +3,6 @@ layout: archive
 title: "古家　士朗（ふるや　しろう）"
 permalink: /ja/
 author_profile: true
-redirect_from:
-  - /ja
 ---
 
 社会学・人口学者
