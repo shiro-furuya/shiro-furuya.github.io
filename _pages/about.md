@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*I am a **sociologist** and **demographer** with keen intersts in interdisciplinary approaches. I use demographic techniques, causal inference, and biostatistics to describe and explain inequalities.*
+*I am a sociologist and demographer with keen intersts in interdisciplinary approaches. I use demographic techniques, causal inference, and biostatistics to describe and explain inequalities.*
 
 
 ## **Appointments**
