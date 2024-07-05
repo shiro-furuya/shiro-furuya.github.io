@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "古家　士朗（ふるや　しろう）"
+title: "古家 士朗（ふるや しろう）"
 permalink: /ja/
 author_profile: true
 ---
