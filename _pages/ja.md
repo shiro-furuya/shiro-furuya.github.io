@@ -12,7 +12,7 @@ author_profile: true
 ## **現職**
 
 
-- David E. Bell Fellow（ポスドク研究員）＠ [ハーバード大学](https://www.hsph.harvard.edu/population-development/)（２０２４年９月１日～） 
+- David E. Bell Postdoctoral Fellow ＠ [ハーバード大学](https://www.hsph.harvard.edu/population-development/)（２０２４年９月１日～） 
 
 - Assistant Professor ＠ [パデュー大学](https://www.cla.purdue.edu/academic/sociology/index.html)（２０２４年８月１２日～）
 
