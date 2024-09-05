@@ -38,7 +38,7 @@ author_profile: true
 
 - Wu, Yuchang, **Shiro Furuya**, Zihang Wang, Jenna E. Nobles, Jason M. Fletcher, and Qiongshi Lu. 2022. "GWAS on Birth Year Infant Mortality Rates Provides Evidences of Recent Natural Selection." *Proceedings of the National Academy of Sciences* 119(12). doi:[10.1073/pnas.2117312119](https://doi.org/10.1073/pnas.2117312119)
 
-そのほかの研究業績については、[cv](https://www.dropbox.com/s/l6i8xk1psvo75ev/vitae.pdf?dl=0)をご参照ください（英語版のみ）。
+そのほかの研究業績については、[cv](https://www.dropbox.com/scl/fi/aipasxt5jrdtq0ezq6s71/vitae.pdf?rlkey=gza6mno1cvpetlapun43leupc&dl=0)をご参照ください（英語版のみ）。
 
 
 
