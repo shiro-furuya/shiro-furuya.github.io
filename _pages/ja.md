@@ -18,11 +18,11 @@ author_profile: true
 
 ## **学位**
 
-- 博士（社会学）, [ウィスコンシン大学マディソン校](https://sociology.wisc.edu/), ２０２４年８月
+- 博士（社会学）＠ [ウィスコンシン大学マディソン校](https://sociology.wisc.edu/), ２０２４年８月
 
-- 修士（社会学）, [ウィスコンシン大学マディソン校](https://sociology.wisc.edu/), ２０２０年８月
+- 修士（社会学）＠ [ウィスコンシン大学マディソン校](https://sociology.wisc.edu/), ２０２０年８月
 
-- 学士（政治学）, [明治大学](https://www.meiji.ac.jp/), ２０１４年３月
+- 学士（政治学）＠ [明治大学](https://www.meiji.ac.jp/), ２０１４年３月
 
 ## **主要な研究業績**
 
