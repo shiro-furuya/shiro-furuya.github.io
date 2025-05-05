@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-The updated vitae in the pdf format is available from [here](https://www.dropbox.com/scl/fi/aipasxt5jrdtq0ezq6s71/vitae.pdf?rlkey=gza6mno1cvpetlapun43leupc&dl=0).
+The updated vitae in the pdf format is available from [here](https://www.dropbox.com/scl/fi/ksgfpmvx9vuyueai96qlh/vitae.pdf?rlkey=9djvnabnc72rpgev71tc1tql5&dl=0).
