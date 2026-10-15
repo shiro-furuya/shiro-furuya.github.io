@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shiro Furuya"
 title_separator          : "-"
 name                     : &name "Shiro Furuya"
-description              : &description "David E. Bell Postdoctoral Fellow at Harvard"
+description              : &description "Assistant Professor of Sociology at Purdue"
 url                      : https://shiro-furuya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shiro-furuya.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shiro Furuya"
   avatar           : "profile.jpg"
-  bio              : "David E. Bell Postdoctoral Fellow at Harvard"
-  location         : "Cambridge, MA"
+  bio              : "Assistant Professor of Sociology at Purdue"
+  location         : "West Lafayette, IN"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.jp/citations?user=cSfWZKEAAAAJ&hl=en&oi=ao"
-  email            : "sfuruya@hsph.harvard.edu"
+  email            : "sfuruya@purdue.edu"
   researchgate     :  
   uri              :
   bitbucket        :
